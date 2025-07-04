@@ -1,8 +1,12 @@
-.practicing{
+.Practicing{
     color: aqua;
+    text-align: center;
 }
-#practicing{
+#Practicing{
     background-color: rebeccapurple;
-    border-color: blue;
-    
+    border-color: blue
+    ;
+    border: 20px solid blue;
+    border-style: dashed;
+
 }
